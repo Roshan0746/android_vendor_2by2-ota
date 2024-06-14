@@ -1,0 +1,3 @@
+2024/06/15
+- Start OTA update
+- Add missing OnePlus Settings
