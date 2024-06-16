@@ -1,3 +1,5 @@
-2024/06/15
+2024/06/16
 - Start OTA update
+
+2024/06/15
 - Switch to NXP NFC & Enable Felica features
