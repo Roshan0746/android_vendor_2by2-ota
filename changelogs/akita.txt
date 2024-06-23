@@ -1,3 +1,7 @@
+2024/06/24
+- June security patches
+- Switched to LineageOS trees
+
 2024/06/22
 - SELinux Enforced
 
