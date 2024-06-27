@@ -1,2 +1,6 @@
+2024/06/28
+- June 2024 security patch
+- Fix Play Integrity
+
 2024/06/16
 - Start OTA update
