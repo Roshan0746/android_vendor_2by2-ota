@@ -1,3 +1,10 @@
+2024/07/11
+- July 2024 security patches
+- Revert back to AOSP NFC implements (Felica still enabled)
+- Fixed Osaifu-keitai app not working on Y!mobile variants
+- Exclude updater to avoid unexpected bootloops
+- Improved UI performance
+
 2024/06/16
 - Start OTA update
 
