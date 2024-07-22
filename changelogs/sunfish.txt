@@ -1,3 +1,6 @@
+2024/07/22
+- July 2024 security patch
+
 2024/06/28
 - June 2024 security patch
 - Fix Play Integrity
