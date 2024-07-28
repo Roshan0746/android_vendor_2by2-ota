@@ -28,6 +28,14 @@
       "maintainer": "lahaina",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
+    },
+    {
+      "codename": "fogos",
+      "manufacturer": "Motorola",
+      "name": "moto g34 5G",
+      "maintainer": "XxxVishalxxX & lahaina",
+      "recovery_images": ["boot", "vendor_boot", "dtbo"],
+      "copy_partitions": true
     }
   ]
 }
