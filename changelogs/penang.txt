@@ -1,3 +1,8 @@
+2024/08/16
+- August 2024 security patches
+- Import missing fingerprint blobs
+- Fixed FM radio lags
+
 2024/07/11
 - July 2024 security patches
 - Revert back to AOSP NFC implements (Felica still enabled)
