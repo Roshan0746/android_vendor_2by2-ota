@@ -1,3 +1,7 @@
+2024/08/23
+- Import fpsensor deps on this build. Might be fixed fingerprint missing.
+- OTA updater returns. no bootlooping issue anymore
+
 2024/08/16
 - August 2024 security patches
 - Import missing fingerprint blobs
