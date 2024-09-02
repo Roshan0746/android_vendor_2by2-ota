@@ -1,3 +1,11 @@
+2024/09/02
+- August 2024 security patches
+- Fixed video playback crashing issue in some apps
+- Fixed Bluetooth disconnecting issue
+- Silence logspams
+
+NOTE: If you lost VoLTE, toggle the airplane mode.
+
 2024/06/16
 - Oplus camera returns
 - Start OTA update
