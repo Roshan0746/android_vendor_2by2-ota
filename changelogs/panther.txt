@@ -1,3 +1,7 @@
+2024/09/06
+- August 2024 security patch
+- Synced to latest sources
+
 2024/06/28
 - June 2024 security patch
 - Fix Play Integrity
