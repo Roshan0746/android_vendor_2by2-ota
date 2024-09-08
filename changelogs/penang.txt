@@ -1,3 +1,8 @@
+2024/09/08
+- September 2024 security patches
+- Enabled low ram optimization
+- Maybe fixed some apps microphone issues
+
 2024/08/23
 - Import fpsensor deps on this build. Might be fixed fingerprint missing.
 - OTA updater returns. no bootlooping issue anymore
