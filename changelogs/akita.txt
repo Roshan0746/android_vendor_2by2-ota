@@ -1,0 +1,9 @@
+2024/06/24
+- June security patches
+- Switched to LineageOS trees
+
+2024/06/22
+- SELinux Enforced
+
+2024/06/16
+- Start OTA update

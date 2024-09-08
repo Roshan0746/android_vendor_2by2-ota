@@ -15,6 +15,13 @@
       "recovery_images": ["boot", "vendor_boot", "dtbo", "vendor_kernel_boot"]
     },
     {
+      "codename": "akita",
+      "manufacturer": "Google",
+      "name": "Google Pixel 8a",
+      "maintainer": "lahaina",
+      "recovery_images": ["boot", "vendor_boot", "dtbo", "vendor_kernel_boot"]
+    },
+    {
       "codename": "denniz",
       "manufacturer": "OnePlus",
       "name": "OnePlus Nord 2 5G",
