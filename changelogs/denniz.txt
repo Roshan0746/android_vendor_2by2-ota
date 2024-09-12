@@ -1,3 +1,7 @@
+2024/09/12
+- September 2024 security patches
+- Synced to latest sources
+
 2024/09/02
 - August 2024 security patches
 - Fixed video playback crashing issue in some apps
