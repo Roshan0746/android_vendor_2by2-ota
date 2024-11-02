@@ -38,16 +38,16 @@
     {
       "codename": "penang",
       "manufacturer": "Motorola",
-      "name": "moto g53 family",
-      "maintainer": "lahaina",
+      "name": "Moto G53 5G",
+      "maintainer": "Moto Sedona Team",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
     },
     {
       "codename": "fogos",
       "manufacturer": "Motorola",
-      "name": "moto g34 5G",
-      "maintainer": "XxxVishalxxX & AnandSuresh02",
+      "name": "Moto G34 5G",
+      "maintainer": "Moto Sedona Team",
       "recovery_images": ["boot", "vendor_boot", "dtbo"],
       "copy_partitions": true
     }
