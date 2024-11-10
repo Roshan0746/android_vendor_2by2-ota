@@ -1,3 +1,7 @@
+2024/11/10
+- Android 15 Initial Release
+- November Security Patch Merge
+
 2024/09/04
 - September 2024 security patch
 
