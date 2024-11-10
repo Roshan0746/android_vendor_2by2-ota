@@ -1,3 +1,9 @@
+2024/11/10
+- Android 15 Initial Release
+- November 2024 Security Patch merge
+- Introduce 3 Fingers Screenshot 
+- OTA update Fixed
+
 2024/09/04
 - September 2024 security patch
 
