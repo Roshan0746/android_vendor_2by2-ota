@@ -1,3 +1,7 @@
+2024/11/10
+- Android 15 Major update
+- November 2024 security patches
+
 2024/09/12
 - Synced to latest sources
 

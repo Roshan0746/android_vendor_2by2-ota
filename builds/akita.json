@@ -1,14 +1,14 @@
 {
   "response": [
     {
-      "datetime": "1726141143",
-      "filename": "2by2-Project-14-20240912-akita.zip",
-      "id": "7a26dcfea92c2765d5da0968711cb3d7",
+      "datetime": "1731224638",
+      "filename": "2by2-Project-15-20241110-akita.zip",
+      "id": "819daaba5f0cc02ef9692e04ac62159d",
       "romtype": "UNOFFICIAL",
-      "size": "2016527294",
-      "url": "https://master.dl.sourceforge.net/project/project2by2-test/akita/14/2by2-Project-14-20240912-akita.zip?viasf=1",
-      "version": "21.0",
-      "platform_version": "14"
+      "size": "2086720268",
+      "url": "https://master.dl.sourceforge.net/project/project2by2-test/akita/15/2by2-Project-15-20241110-akita.zip?viasf=1",
+      "version": "22.0",
+      "platform_version": "15"
     }
   ]
 }
