@@ -15,6 +15,13 @@
       "recovery_images": ["boot", "vendor_boot", "dtbo", "vendor_kernel_boot"]
     },
     {
+      "codename": "hanoip",
+      "manufacturer": "Motorola",
+      "name": "Moto G60 / G40 Fusion",
+      "maintainer": "isg32",
+      "recovery_images": ["boot", "vendor_boot", "dtbo"]
+    },
+    {
       "codename": "akita",
       "manufacturer": "Google",
       "name": "Google Pixel 8a",
