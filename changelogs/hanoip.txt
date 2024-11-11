@@ -1,0 +1,4 @@
+2024/11/10
+- Start OTA update
+- Android 15 Major update
+- November 2024 security patches
