@@ -1,0 +1,4 @@
+2024/11/15
+- Start OTA update
+- Build MotoNrEnabler
+- November 2024 security patches
