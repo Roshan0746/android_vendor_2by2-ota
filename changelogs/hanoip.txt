@@ -1,3 +1,8 @@
+2024/11/18
+- UI Improvements
+- Switch to the pixel power-libperfmgr
+- Synced with latest source
+
 2024/11/10
 - Start OTA update
 - Android 15 Major update
