@@ -1,3 +1,9 @@
+2024/11/23
+- Improvement in stability 
+- White QS panel added in Light Theme
+- New Feature added to Miscellaneous 
+- New Font available - 2by2 Special
+
 2024/11/10
 - Android 15 Initial Release
 - November 2024 Security Patch merge

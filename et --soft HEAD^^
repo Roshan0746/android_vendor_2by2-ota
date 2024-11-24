@@ -1,0 +1,256 @@
+[33mcommit b24854bd08d87e11091b0d3a69bf29ec00dc0bfc[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Roshan0746 <48382822+Roshan0746@users.noreply.github.com>
+Date:   Sun Nov 24 15:35:04 2024 +0530
+
+    Update sunfish.txt
+
+[33mcommit aa35235b8c59cb14dad57f5940bd821868561446[m
+Author: roshan0746 <rsagvekar36@gmail.com>
+Date:   Sun Nov 24 08:58:11 2024 +0000
+
+    Sunfish: 11/10/2024 Update
+
+[33mcommit 0ec5c31ec675af36dd81e41f36d743276342e5d6[m
+Author: roshan0746 <rsagvekar36@gmail.com>
+Date:   Sun Nov 24 08:55:27 2024 +0000
+
+    Sunfish: 23/11/2024 Update
+
+[33mcommit 24058dd6021be15948ad1fd27f23c6e86cd46903[m[33m ([m[1;31mm/15[m[33m, [m[1;31m2by2/main[m[33m)[m
+Merge: f2f0224 8575226
+Author: lahaina <34679325+nattolecats@users.noreply.github.com>
+Date:   Tue Nov 19 00:27:23 2024 +0900
+
+    Merge pull request #6 from isg32/main
+    
+    Hanoip: 18/11/2024 Update
+
+[33mcommit 857522687993ecef61031f02e4889078b5f258fe[m
+Author: isg32 <sapangajjar101105@gmail.com>
+Date:   Mon Nov 18 15:10:11 2024 +0000
+
+    Hanoip: 18/11/2024 Update
+    
+    Signed-off-by: isg32 <sapangajjar101105@gmail.com>
+
+[33mcommit f2f02249ec9a94dda67b6f0df70b6d06b670ef43[m
+Merge: 2abf363 0df6df4
+Author: lahaina <34679325+nattolecats@users.noreply.github.com>
+Date:   Sun Nov 17 00:50:30 2024 +0900
+
+    Merge pull request #5 from JuanDvOS/main
+    
+    New Device: Corfur
+
+[33mcommit 0df6df42f54191ac9d34161c18fa52bd9849fd0c[m
+Author: JuanDvOS <166257821+JuanDvOS@users.noreply.github.com>
+Date:   Fri Nov 15 12:57:51 2024 -0700
+
+    New Device: Corfur
+
+[33mcommit 2abf363edd927ed2076339343ec785e9d2b32472[m
+Merge: e26438b 3e3b807
+Author: lahaina <34679325+nattolecats@users.noreply.github.com>
+Date:   Mon Nov 11 19:01:17 2024 +0900
+
+    Merge pull request #4 from isg32/main
+    
+    New Device: Hanoip
+
+[33mcommit 3e3b8077a68b3bf34ed07c775b2bc6de8eb6bff1[m
+Author: Sapan Gajjar <sapangajjar101105@gmail.com>
+Date:   Mon Nov 11 15:24:53 2024 +0530
+
+    New Device: Hanoip
+    
+    Signed-off-by: Sapan Gajjar <sapangajjar101105@gmail.com>
+
+[33mcommit e26438b7becad8393d3c10b22dbc6bbd5a006797[m
+Author: Roshan0746 <48382822+Roshan0746@users.noreply.github.com>
+Date:   Mon Nov 11 06:35:41 2024 +0900
+
+    Sunfish: 11/10/2024 Update
+
+[33mcommit 500da4ad98c11252fd5e9cbec9427f18e845d74d[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Nov 10 21:20:07 2024 +0900
+
+    Akita: 11/10/2024 Update
+
+[33mcommit 8c7a66306213eada5d9e46f4cbf27f31cafa289e[m
+Author: lahaina <34679325+nattolecats@users.noreply.github.com>
+Date:   Sat Nov 2 23:24:06 2024 +0900
+
+    devices: Maintainer changes
+
+[33mcommit a6eb9e013cfab25beb9fea727f056a15847c427f[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Oct 13 00:59:35 2024 +0900
+
+    Panther: 10/13/2024 Update
+
+[33mcommit 1afbdc858ed26870bb24682c31310caa96a4f461[m
+Author: lahaina <34679325+nattolecats@users.noreply.github.com>
+Date:   Thu Oct 10 12:37:22 2024 +0900
+
+    devices: Maintainer changes
+
+[33mcommit 56328ddc91edb62fc2fe66e4c0c014616ae7bbb2[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Sep 20 01:22:30 2024 +0900
+
+    Revert "Denniz: 09/20/2024 Update"
+    
+    This reverts commit 3e3f1b922a7d7774f4c13f6c5038db7e15c14b1c.
+
+[33mcommit 3e3f1b922a7d7774f4c13f6c5038db7e15c14b1c[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Sep 20 00:10:30 2024 +0900
+
+    Denniz: 09/20/2024 Update
+
+[33mcommit 8074c6a0c9e3f123d37d5476a5a5e56914094059[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Wed Sep 18 00:30:40 2024 +0900
+
+    Penang: 09/18/2024 Update
+
+[33mcommit e5863a1e344565c83a13f4b580cffefdce10472a[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Thu Sep 12 21:28:48 2024 +0900
+
+    Akita/Panther/Denniz: 09/12/2024 Update
+
+[33mcommit 3a5132dd08a8a471658511fcc37f8d28817e7e7a[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Tue Sep 10 00:15:02 2024 +0900
+
+    Sunfish: 09/10/2024 Update
+
+[33mcommit dab177386afa2c04700b1de9e5466f79b3e19973[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Sep 9 01:33:42 2024 +0900
+
+    Penang: 09/09/2024 Update
+
+[33mcommit c979cf3392fd0f5659acd73b74c276d367df3900[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Sep 8 13:54:22 2024 +0900
+
+    Akita: 09/08/2024 Update
+
+[33mcommit b79777732c0aa56af8a11864d6481438ea9dc3db[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Sep 8 13:52:48 2024 +0900
+
+    devices: Welcome back akita
+    
+    This reverts commit 9424e4d50ea6a92a22d765d57dc73b07bab7a2ec.
+
+[33mcommit d50dcc9cb2c790835ee38db9d0a535abfc5e7e47[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Sep 6 01:39:48 2024 +0900
+
+    Panther: 09/06/2024 Update
+
+[33mcommit 185974ff80c05d34ff90d5978882bf4c27c6aa73[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Sep 2 22:00:52 2024 +0900
+
+    Denniz: 09/03/2024 Update
+
+[33mcommit 926573f445efbebcaa8ee8b328e39652e2c335b4[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Aug 23 02:06:51 2024 +0900
+
+    Penang: 08/23/2024 Update
+
+[33mcommit b0cfb2c718062bc6181bd2a3fb89327b08717266[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Aug 19 07:10:00 2024 +0900
+
+    Veux: 08/19/2024 Update
+
+[33mcommit 635e251d171587999c5fd0f6f7103b3f7d7b69c1[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Aug 16 06:45:49 2024 +0900
+
+    Penang: 08/16/2024 Update
+
+[33mcommit ba6aa5496dc7d5f31a3f602703f79bfd0001a478[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Tue Aug 13 13:55:51 2024 +0900
+
+    Sunfish: 08/13/2024 Update
+
+[33mcommit d3c239d9d22690e0fcd0fba85400cbcd3a971df5[m[33m ([m[1;31morigin/14-bak[m[33m)[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Jul 28 16:43:53 2024 +0900
+
+    Fogos: 07/28/2024 Initial release
+
+[33mcommit c8d5bea2e7a8055168a1e5a757f8cb84f604317c[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Jul 22 23:28:04 2024 +0900
+
+    Sunfish: 07/22/2024 Update
+
+[33mcommit 293be194f4b5646180a34aee56d95b658c7a3ebd[m[33m ([m[1;31morigin/14[m[33m)[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Thu Jul 11 01:18:48 2024 +0900
+
+    Penang: 07/11/2024 Update
+
+[33mcommit 324f90c48d82f600db1f59cdf4a4fdbd913746d4[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Fri Jun 28 00:54:38 2024 +0900
+
+    Panther/Sunfish: 06/28/2024 Update
+
+[33mcommit f77e15d921910bfb39733ebc81dd99ced0afa3e9[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Tue Jun 25 02:07:22 2024 +0900
+
+    New device: panther
+
+[33mcommit 9424e4d50ea6a92a22d765d57dc73b07bab7a2ec[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Jun 24 20:53:38 2024 +0900
+
+    devices: RIP akita
+
+[33mcommit 50a50aef3e2f42e9aceb279092a54b36eb017d2b[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Mon Jun 24 00:36:29 2024 +0900
+
+    Akita: 06/24/2024 Update
+
+[33mcommit 5d69ebb2020a970162de8b8cb0ff6cc3565e29dc[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sat Jun 22 02:20:33 2024 +0900
+
+    Akita: 06/22/2024 Update
+
+[33mcommit 1f7ff4680aa03f520f5d75310e29eb4fcb4161d2[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Tue Jun 18 22:13:27 2024 +0900
+
+    penang: Add missing vendor_boot and dtbo images
+
+[33mcommit b66be160029da397ffaae8c2e8db530376e4ea24[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Jun 16 20:38:14 2024 +0900
+
+    Denniz: 06/16/2024 Update
+
+[33mcommit c44674dfb2007d3378bc3d62cd8210a63ed06b74[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sun Jun 16 11:32:18 2024 +0900
+
+    Akita/Denniz/Penang/Sunfish: 06/16/2024 Update
+
+[33mcommit 45a82d4ec5554b3d8ec7adf9ae138b01b79a7192[m
+Author: lahaina <nattolecats@gmail.com>
+Date:   Sat Jun 15 01:21:17 2024 +0900
+
+    ota: initial commit
